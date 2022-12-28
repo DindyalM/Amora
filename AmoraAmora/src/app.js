@@ -1,15 +1,37 @@
 //create csv
+// import axios from 'axios';
+
+// async function getData() {
+//   try {
+//     const response = await axios.get(
+//       'https://www.fashionnova.com/collections/dresses',
+//       { timeout: 2000 }
+//     );
+//     console.log(response);
+//   } catch (error) {
+//     console.error(error);
+//   }
+// }
+
+// getData();
 import axios from 'axios';
+import cheerio from 'cheerio';
 
-async function getData() {
+const getPostTitles = async () => {
   try {
-    const response = await axios.get(
-      'https://www.reddit.com/r/programming.json'
-    );
-    console.log(response);
-  } catch (error) {
-    console.error(error);
-  }
-}
+    const { data } = await axios.get('https://old.reddit.com/r/programming/');
+    const $ = cheerio.load(data);
+    const postTitles = [];
 
-getData();
+    $('div > p.title > a').each((_idx, el) => {
+      const postTitle = $(el).text();
+      postTitles.push(postTitle);
+    });
+
+    return postTitles;
+  } catch (error) {
+    throw error;
+  }
+};
+
+getPostTitles().then((postTitles) => console.log(postTitles));
