@@ -10,13 +10,12 @@
                       <img class="mr-8 w-60 h-50" src="https://scontent.fyto1-1.fna.fbcdn.net/v/t39.30808-6/315638247_549892217144386_5144615628291409476_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=c_oZT6eUFVAAX8KlPrx&_nc_ht=scontent.fyto1-1.fna&oh=00_AfB1K72MeLQefscBhG0tzgZVJS34h_a0u532hsbVr-e_JQ&oe=63C0CF91" alt="Jese Leos">
                       <div>
                           <a href="#" rel="author" class="text-3xl font-bold text-gray-900 dark:text-white">Joan Laxmie Rupram</a>
-                          <p class="text-base font-light text-gray-500 dark:text-gray-400 text-base">Self-Care Then & Now: Joan Laxmie Rupram</p>
-                          <p class="text-sm font-light text-gray-500 dark:text-gray-400"><time pubdate datetime="2022-02-08" title="
-                          January 8th, 2023">Jan. 8, 2022</time></p>
+                          <p class="text-base font-light text-gray-500 dark:text-gray-400 text-base">Self-Care Then & Now</p>
+                          
                       </div>
                 </div>
               </address>
-              <h1 class="mb-6 text-4xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">Joans Bio</h1>
+              <h1 class="mb-6 text-4xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">Joan's Bio</h1>
           </header>
           <div name="Joan intro">
             <p class="lead">Joan Laxmie Rupram is a 5th generation “post” Indian Indentured Caribbean descendent of Guyana and Shakta Devi lineage holder. Joan occupies indigenous territory of the Mississaugas of the Credit, the Anishnabeg, the Haudenosaunee, the Chippewa, the Wendat Peoples and the Senecas on Treaty 13 known today as Toronto.</p>
@@ -37,10 +36,10 @@
             <div class="pb-8"></div> 
         </div>
         <div name='p1'>
-            <h1 class="mb-2 text-2xl font-extrabold leading-tight text-gray-900 lg:mb-3 lg:text-2xl dark:text-white">2023 - Reflectively, how do you feel about this response now? What has changed, what hasn’t?
+            <h1 class="mb-2 text-2xl font-extrabold leading-tight text-gray-900 lg:mb-3 lg:text-2xl dark:text-white">2023 - Reflectively, how do you feel about this response now? What has changed, what hasn’t? ( in terms of how you view self-care as it pertains to your own wellness and generally in society?)
             </h1>
             <div class="pb-1"></div>
-             <p class="mb-1 text-sm font-extrabold leading-tight text-gray-700 lg:mb-3 lg:text-sm dark:text-white">( in terms of how you view self-care as it pertains to your own wellness and generally in society?)</p>
+             <p class="mb-1 text-sm font-extrabold leading-tight text-gray-700 lg:mb-3 lg:text-sm dark:text-white"></p>
              <div class="pb-4"></div>
             <p>
             The tools I described here I still use. Journaling, morning routines, cultural music, art, making time for hygiene and personal care needs are all part of things I'll do to show myself care and love. As someone living with depression, anxiety and PTSD I've been learning about my mental health as part of my life's journey. My mental health needs have changed and as such, the way I learn about my evolving needs shifts and how to meet these needs and care for these needs has also shifted. In western countries, we always have to ask ourselves how we've internalized capitalism in our own lives. The way we conceptualize care in western countries has roots in institutionalization and professionalization, so yes, our concepts of care are commercialized. Even if we live in a western country, I believe the call to self love and self-care is a call to your Spirit, your Soul, your Intelligence, your Creativity, your Vitality, your Peace. If we become aware of the call and follow it with a heart of sincerity, then we're taken on a journey. Self love and self care has become about knowing who I am and accepting myself.
@@ -66,7 +65,7 @@
                 I found communities locally rooted in honoring Devi and reclaimed my tantric heritage in the ancient goddess traditions of my Ancestors. I wanted to farm locally with Black/Brown Indigenous people and found a local grass-root organization to grow food together and feed food deserts. I found diasporic communities in the arts preserving Indian Cultural Heritage and challenging caste oppression, cultural appropriation and demonization of the subaltern. I found a community in New York that satisfies my connection with the arts and transformative healing justice. Together we led workshops on Indigenizing Pleasure, created communal soundscapes and told our stories. I rooted myself in a community-led masjid based in Chicago and cultivated my devotion to Allah. My muslim community embraced me and my multiplex of identities where our shared devotion strengthened us all together.</p>
             <div class="pb-4"></div>
             <p>
-                My self-care and self love is a dynamic and enriching connection with my True Nature. I've strung a network of communities around me that supports my spiritual needs and strengthens my tenacity. I spend time practicing rituals like making fire and communing with water. I'm out in nature sitting with the trees and connecting with the sun, the clouds, the grass, the soil, the flowers, the insects, the wind. My self-care has me in nature a lot connecting with the Presence of the elements and the radiance of nature's ecosystem. This is also another form of community I'm in relationship with. My concept of care evolved by being in Nature. I practice Being with, In harmony. Nature helps me Be with myself so I can learn who I am and what my needs ar
+                My self-care and self love is a dynamic and enriching connection with my True Nature. I've strung a network of communities around me that supports my spiritual needs and strengthens my tenacity. I spend time practicing rituals like making fire and communing with water. I'm out in nature sitting with the trees and connecting with the sun, the clouds, the grass, the soil, the flowers, the insects, the wind. My self-care has me in nature a lot connecting with the Presence of the elements and the radiance of nature's ecosystem. This is also another form of community I'm in relationship with. My concept of care evolved by being in Nature. I practice Being with, In harmony. Nature helps me Be with myself so I can learn who I am and what my needs are.
             </p>
         </div>
       </article>
