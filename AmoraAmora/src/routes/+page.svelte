@@ -1,29 +1,22 @@
 <script>
   import "../app.css";
 </script>
-<!-- 
-Install the "flowbite-typography" NPM package to apply styles and format the article content: 
-
-URL: https://flowbite.com/docs/components/typography/ 
--->
-
 <main class="pt-8 pb-16 lg:pt-16 lg:pb-24 bg-white dark:bg-gray-900">
   <div class="flex justify-between px-4 mx-auto max-w-screen-xl ">
       <article class="mx-auto w-full max-w-2xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert">
           <header class="mb-4 lg:mb-6 not-format">
               <address class="flex items-center mb-6 not-italic">
-                  <div class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white">
-                      <img class="mr-4 w-16 h-16 rounded-full" src="
-                     joan_drwsworld.jpg" alt="Jese Leos">
+                  <div class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white pl-7">
+                      <img class="mr-8 w-60 h-50" src="https://scontent.fyto1-1.fna.fbcdn.net/v/t39.30808-6/315638247_549892217144386_5144615628291409476_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=c_oZT6eUFVAAX8KlPrx&_nc_ht=scontent.fyto1-1.fna&oh=00_AfB1K72MeLQefscBhG0tzgZVJS34h_a0u532hsbVr-e_JQ&oe=63C0CF91" alt="Jese Leos">
                       <div>
-                          <a href="#" rel="author" class="text-xl font-bold text-gray-900 dark:text-white">Joan Laxmie Rupram</a>
-                          <p class="text-base font-light text-gray-500 dark:text-gray-400">Self-Care Then & Now: Joan Laxmie Rupram</p>
-                          <p class="text-base font-light text-gray-500 dark:text-gray-400"><time pubdate datetime="2022-02-08" title="
+                          <a href="#" rel="author" class="text-3xl font-bold text-gray-900 dark:text-white">Joan Laxmie Rupram</a>
+                          <p class="text-base font-light text-gray-500 dark:text-gray-400 text-base">Self-Care Then & Now: Joan Laxmie Rupram</p>
+                          <p class="text-sm font-light text-gray-500 dark:text-gray-400"><time pubdate datetime="2022-02-08" title="
                           January 8th, 2023">Jan. 8, 2022</time></p>
                       </div>
-                  </div>
+                </div>
               </address>
-              <h1 class="mb-4 text-4xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">Joans Bio</h1>
+              <h1 class="mb-6 text-4xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">Joans Bio</h1>
           </header>
           <div name="Joan intro">
             <p class="lead">Joan Laxmie Rupram is a 5th generation “post” Indian Indentured Caribbean descendent of Guyana and Shakta Devi lineage holder. Joan occupies indigenous territory of the Mississaugas of the Credit, the Anishnabeg, the Haudenosaunee, the Chippewa, the Wendat Peoples and the Senecas on Treaty 13 known today as Toronto.</p>
@@ -48,77 +41,37 @@ URL: https://flowbite.com/docs/components/typography/
             </h1>
             <div class="pb-1"></div>
              <p class="mb-1 text-sm font-extrabold leading-tight text-gray-700 lg:mb-3 lg:text-sm dark:text-white">( in terms of how you view self-care as it pertains to your own wellness and generally in society?)</p>
-             <div class="pb-3"></div>
+             <div class="pb-4"></div>
             <p>
             The tools I described here I still use. Journaling, morning routines, cultural music, art, making time for hygiene and personal care needs are all part of things I'll do to show myself care and love. As someone living with depression, anxiety and PTSD I've been learning about my mental health as part of my life's journey. My mental health needs have changed and as such, the way I learn about my evolving needs shifts and how to meet these needs and care for these needs has also shifted. In western countries, we always have to ask ourselves how we've internalized capitalism in our own lives. The way we conceptualize care in western countries has roots in institutionalization and professionalization, so yes, our concepts of care are commercialized. Even if we live in a western country, I believe the call to self love and self-care is a call to your Spirit, your Soul, your Intelligence, your Creativity, your Vitality, your Peace. If we become aware of the call and follow it with a heart of sincerity, then we're taken on a journey. Self love and self care has become about knowing who I am and accepting myself.
             </p>
-            <div class="pb-8"></div> 
-            <p>My relationship with self-love and self-care evolves and isn't static. Using an industrial lens, in my opinion, aims to make self love and self-care static and fixed. As I evolve, my relations with care and love evolves. As I listen to the call, I open myself to learning how to love and how to care, this is dynamic, and life is leading and teaching me. Self- reflexivity and discernment are technologies I use to gauge when liberatory practices are being extorted. In reflection, I am talking to myself. I'm always in a relationship with myself. The tools I described above are some ways I was reconnecting with myself.</p>
-            <div class="pb-8"></div> 
-            <p>At the time, I was still bumping along, trying new methods to find some sense of inner and outer harmony. I was still unlearning and shedding, making new choices and learning about my responses and resolve. At 23 years old, I had committed to learning how to care for myself and I put myself on different modalities to explore how I responded. I changed the way I ate for my mental health and I wanted to make more caring choices for myself. These were some of my initial desires that led me to self-care and self-love.</p>
+            <div class="pb-4"></div> 
+            <p>
+                My relationship with self-love and self-care evolves and isn't static. Using an industrial lens, in my opinion, aims to make self love and self-care static and fixed. As I evolve, my relations with care and love evolves. As I listen to the call, I open myself to learning how to love and how to care, this is dynamic, and life is leading and teaching me. Self- reflexivity and discernment are technologies I use to gauge when liberatory practices are being extorted. In reflection, I am talking to myself. I'm always in a relationship with myself. The tools I described above are some ways I was reconnecting with myself.
+            </p>
+            <div class="pb-4"></div> 
+            <p>
+                At the time, I was still bumping along, trying new methods to find some sense of inner and outer harmony. I was still unlearning and shedding, making new choices and learning about my responses and resolve. At 23 years old, I had committed to learning how to care for myself and I put myself on different modalities to explore how I responded. I changed the way I ate for my mental health and I wanted to make more caring choices for myself. These were some of my initial desires that led me to self-care and self-love.
+            </p>
+            <div class="pb-4"></div>
+            <p>
+                I became better at being with myself, learning what my specific needs are and creating boundaries for myself to meet my needs. I wasn't immersed in the community the same way I am now. As my needs became clearer to me, I started looking for specific spaces that can help me meet those needs. In 2020, I started looking for community spaces that were specific to my emerging needs to be in cultural and spiritual diasporic spaces. At the time, I wanted less institutional and less western cultural hegemony. I wanted to be with Black Brown Indigenous people specifically.
+            </p>
+            <div class="pb-4"></div>
+            <p>
+                Some of the community spaces became bonafide while others dissolved. In both regards, I learned to care for myself with community and I was practicing what I call in my life, community care. My self care and self love has deeper roots in my cultural heritage, Ancestors and Spirituality. Journaling is a tool I use to connect with my emerging needs which always reveals to me the direction of my choices. I sought out cultural community spaces that were specific to my emerging needs to reconnect with my lineage and the practices of my people. In an effort to self love and self-care I found a community in Ecuador that rekindled my affinity to be in ceremony; a practice neglected after migration to Canada from Guyana. Here in this community, I found a space for my spiritual needs rooted in respect for nature, ceremony and support for the local indigenous people. I met people creating their own community based on mutual care, love and respect. This model inspires a lot of my analysis and visions for community care.
+            </p>
+            <div class="pb-4"></div>
+            <p>
+                I found communities locally rooted in honoring Devi and reclaimed my tantric heritage in the ancient goddess traditions of my Ancestors. I wanted to farm locally with Black/Brown Indigenous people and found a local grass-root organization to grow food together and feed food deserts. I found diasporic communities in the arts preserving Indian Cultural Heritage and challenging caste oppression, cultural appropriation and demonization of the subaltern. I found a community in New York that satisfies my connection with the arts and transformative healing justice. Together we led workshops on Indigenizing Pleasure, created communal soundscapes and told our stories. I rooted myself in a community-led masjid based in Chicago and cultivated my devotion to Allah. My muslim community embraced me and my multiplex of identities where our shared devotion strengthened us all together.</p>
+            <div class="pb-4"></div>
+            <p>
+                My self-care and self love is a dynamic and enriching connection with my True Nature. I've strung a network of communities around me that supports my spiritual needs and strengthens my tenacity. I spend time practicing rituals like making fire and communing with water. I'm out in nature sitting with the trees and connecting with the sun, the clouds, the grass, the soil, the flowers, the insects, the wind. My self-care has me in nature a lot connecting with the Presence of the elements and the radiance of nature's ecosystem. This is also another form of community I'm in relationship with. My concept of care evolved by being in Nature. I practice Being with, In harmony. Nature helps me Be with myself so I can learn who I am and what my needs ar
+            </p>
         </div>
-
-        
-       
       </article>
   </div>
 </main>
-
-<aside aria-label="Related articles" class="py-8 lg:py-24 bg-gray-50 dark:bg-gray-800">
-  <div class="px-4 mx-auto max-w-screen-xl">
-      <h2 class="mb-8 text-2xl font-bold text-gray-900 dark:text-white">Related articles</h2>
-      <div class="grid gap-12 sm:grid-cols-2 lg:grid-cols-4">
-          <article class="max-w-xs">
-              <a href="#">
-                  <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/article/blog-1.png" class="mb-5 rounded-lg" alt="Image 1">
-              </a>
-              <h2 class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
-                  <a href="#">Our first office</a>
-              </h2>
-              <p class="mb-4 font-light text-gray-500 dark:text-gray-400">Over the past year, Volosoft has undergone many changes! After months of preparation.</p>
-              <a href="#" class="inline-flex items-center font-medium underline underline-offset-4 text-primary-600 dark:text-primary-500 hover:no-underline">
-                  Read in 2 minutes
-              </a>
-          </article>
-          <article class="max-w-xs">
-              <a href="#">
-                  <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/article/blog-2.png" class="mb-5 rounded-lg" alt="Image 2">
-              </a>
-              <h2 class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
-                  <a href="#">Enterprise design tips</a>
-              </h2>
-              <p class="mb-4 font-light text-gray-500 dark:text-gray-400">Over the past year, Volosoft has undergone many changes! After months of preparation.</p>
-              <a href="#" class="inline-flex items-center font-medium underline underline-offset-4 text-primary-600 dark:text-primary-500 hover:no-underline">
-                  Read in 12 minutes
-              </a>
-          </article>
-          <article class="max-w-xs">
-              <a href="#">
-                  <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/article/blog-3.png" class="mb-5 rounded-lg" alt="Image 3">
-              </a>
-              <h2 class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
-                  <a href="#">We partnered with Google</a>
-              </h2>
-              <p class="mb-4 font-light text-gray-500 dark:text-gray-400">Over the past year, Volosoft has undergone many changes! After months of preparation.</p>
-              <a href="#" class="inline-flex items-center font-medium underline underline-offset-4 text-primary-600 dark:text-primary-500 hover:no-underline">
-                  Read in 8 minutes
-              </a>
-          </article>
-          <article class="max-w-xs">
-              <a href="#">
-                  <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/article/blog-4.png" class="mb-5 rounded-lg" alt="Image 4">
-              </a>
-              <h2 class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
-                  <a href="#">Our first project with React</a>
-              </h2>
-              <p class="mb-4 font-light text-gray-500 dark:text-gray-400">Over the past year, Volosoft has undergone many changes! After months of preparation.</p>
-              <a href="#" class="inline-flex items-center font-medium underline underline-offset-4 text-primary-600 dark:text-primary-500 hover:no-underline">
-                  Read in 4 minutes
-              </a>
-          </article>
-      </div>
-  </div>
-</aside>
 
 
 
