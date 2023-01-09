@@ -17,12 +17,13 @@ URL: https://flowbite.com/docs/components/typography/
                      joan_drwsworld.jpg" alt="Jese Leos">
                       <div>
                           <a href="#" rel="author" class="text-xl font-bold text-gray-900 dark:text-white">Joan Laxmie Rupram</a>
-                          <p class="text-base font-light text-gray-500 dark:text-gray-400">Graphic Designer, educator & CEO Flowbite</p>
-                          <p class="text-base font-light text-gray-500 dark:text-gray-400"><time pubdate datetime="2022-02-08" title="February 8th, 2022">Feb. 8, 2022</time></p>
+                          <p class="text-base font-light text-gray-500 dark:text-gray-400">Self-Care Then & Now: Joan Laxmie Rupram</p>
+                          <p class="text-base font-light text-gray-500 dark:text-gray-400"><time pubdate datetime="2022-02-08" title="
+                          January 8th, 2023">Jan. 8, 2022</time></p>
                       </div>
                   </div>
               </address>
-              <h1 class="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">Joans Bio</h1>
+              <h1 class="mb-4 text-4xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">Joans Bio</h1>
           </header>
           <div name="Joan intro">
             <p class="lead">Joan Laxmie Rupram is a 5th generation “post” Indian Indentured Caribbean descendent of Guyana and Shakta Devi lineage holder. Joan occupies indigenous territory of the Mississaugas of the Credit, the Anishnabeg, the Haudenosaunee, the Chippewa, the Wendat Peoples and the Senecas on Treaty 13 known today as Toronto.</p>
@@ -33,354 +34,32 @@ URL: https://flowbite.com/docs/components/typography/
             <div class="pb-8"></div>
             <p>Joan runs their family business, JN Organichouse and their consulting practice coaching and mentoring emergent leaders. You can find their short stories in Protest Through Poetry Anthology at Protestthroughpoetry.com & Blooming Through Adversity: A Collection of Short Stories on Amazon.</p>
             <div class="pb-8"></div>
+          </div>
+        <div name='p1'>
+            <h1 class="mb-2 text-2xl font-extrabold leading-tight text-gray-900 lg:mb-3 lg:text-2xl dark:text-white">2015 -  How do you express self-love/care in the face of racism/anti-Blackness/anti-Indigeneity?
+            </h1>
+            <p>
+            I have a toolbox of things I will use to take care of myself and make myself feel like a priority in general. I’ve incorporated self care into my daily life and daily routine. When incidents happen I use journaling to explore my feelings, thoughts, reactions and to reflect. I use journaling as a tool to express emotions that I normally would keep repressed and heavy intense emotions I would keep alive within my body. To show self love/ care I have been using my journals as self-therapy focusing on monitoring my thoughts and feelings and reactions that I have to particular situations. I will then dive into uncovering beliefs that are tied to these thoughts. When intense emotions take me over, I allow them to come over me and pass through. A strategy I use is to be with myself when I feel unpleasant feelings in my body, those are the times when I least want to be in my body so I practice allowing these feelings to surface and to be with myself as I go through this process. I will also monitor my thoughts particularly when I begin to feel annoyed and irritated with my emotional state. I created a morning routine that I always follow every morning which helps me feel and see that I am putting myself first as the first priority every morning. I listen to a lot of music, particular music that is part of my culture ( roots, reggae) but music in general has been therapeutic for me. Sometimes I will also draw and doodle depending on how much time I want to spend with myself and how moody I’m feeling. Self-care routine includes allowing one day for myself, where I only do things that are needed for my well-being, for example; facial, hair treatment, making time to clean up.
+            </p>
+            <div class="pb-8"></div> 
         </div>
-          <h1 class="mb-2 text-1xl font-extrabold leading-tight text-gray-900 lg:mb-3 lg:text-2xl dark:text-white">2015 -  How do you express self-love/care in the face of racism/anti-Blackness/anti-Indigeneity?</h1>
-          <p>First of all you need to understand how Flowbite works. This library is not another framework.
-              Rather, it is a set of components based on Tailwind CSS that you can just copy-paste from the
-              documentation.</p>
-          <p>It also includes a JavaScript file that enables interactive components, such as modals, dropdowns,
-              and datepickers which you can optionally include into your project via CDN or NPM.</p>
-          <p>You can check out the <a href="https://flowbite.com/docs/getting-started/quickstart/">quickstart
-                  guide</a> to explore the elements by including the CDN files into your project. But if you want
-              to build a project with Flowbite I recommend you to follow the build tools steps so that you can
-              purge and minify the generated CSS.</p>
-          <p>You'll also receive a lot of useful application UI, marketing UI, and e-commerce pages that can help
-              you get started with your projects even faster. You can check out this <a
-                  href="https://flowbite.com/docs/components/tables/">comparison table</a> to better understand
-              the differences between the open-source and pro version of Flowbite.</p>
-          <h2>When does design come in handy?</h2>
-          <p>While it might seem like extra work at a first glance, here are some key moments in which prototyping
-              will come in handy:</p>
-          <ol>
-              <li><strong>Usability testing</strong>. Does your user know how to exit out of screens? Can they
-                  follow your intended user journey and buy something from the site you’ve designed? By running a
-                  usability test, you’ll be able to see how users will interact with your design once it’s live;
-              </li>
-              <li><strong>Involving stakeholders</strong>. Need to check if your GDPR consent boxes are displaying
-                  properly? Pass your prototype to your data protection team and they can test it for real;</li>
-              <li><strong>Impressing a client</strong>. Prototypes can help explain or even sell your idea by
-                  providing your client with a hands-on experience;</li>
-              <li><strong>Communicating your vision</strong>. By using an interactive medium to preview and test
-                  design elements, designers and developers can understand each other — and the project — better.
-              </li>
-          </ol>
-          <h3>Laying the groundwork for best design</h3>
-          <p>Before going digital, you might benefit from scribbling down some ideas in a sketchbook. This way,
-              you can think things through before committing to an actual design project.</p>
-          <p>Let's start by including the CSS file inside the <code>head</code> tag of your HTML.</p>
-          <h3>Understanding typography</h3>
-          <h4>Type properties</h4>
-          <p>A typeface is a collection of letters. While each letter is unique, certain shapes are shared across
-              letters. A typeface represents shared patterns across a collection of letters.</p>
-          <h4>Baseline</h4>
-          <p>A typeface is a collection of letters. While each letter is unique, certain shapes are shared across
-              letters. A typeface represents shared patterns across a collection of letters.</p>
-          <h4>Measurement from the baseline</h4>
-          <p>A typeface is a collection of letters. While each letter is unique, certain shapes are shared across
-              letters. A typeface represents shared patterns across a collection of letters.</p>
-          <h3>Type classification</h3>
-          <h4>Serif</h4>
-          <p>A serif is a small shape or projection that appears at the beginning or end of a stroke on a letter.
-              Typefaces with serifs are called serif typefaces. Serif fonts are classified as one of the
-              following:</p>
-          <h4>Old-Style serifs</h4>
-          <ul>
-              <li>Low contrast between thick and thin strokes</li>
-              <li>Diagonal stress in the strokes</li>
-              <li>Slanted serifs on lower-case ascenders</li>
-          </ul><img src="https://flowbite.s3.amazonaws.com/typography-plugin/typography-image-2.png" alt="">
-          <ol>
-              <li>Low contrast between thick and thin strokes</li>
-              <li>Diagonal stress in the strokes</li>
-              <li>Slanted serifs on lower-case ascenders</li>
-          </ol>
-          <h3>Laying the best for successful prototyping</h3>
-          <p>A serif is a small shape or projection that appears at the beginning:</p>
-          <blockquote>
-              <p>Flowbite is just awesome. It contains tons of predesigned components and pages starting from
-                  login screen to complex dashboard. Perfect choice for your next SaaS application.</p>
-          </blockquote>
-          <h4>Code example</h4>
-          <p>A serif is a small shape or projection that appears at the beginning or end of a stroke on a letter.
-              Typefaces with serifs are called serif typefaces. Serif fonts are classified as one of the
-              following:</p>
-          <h4>Table example</h4>
-          <p>A serif is a small shape or projection that appears at the beginning or end of a stroke on a letter.
-          </p>
-          <table>
-              <thead>
-                  <tr>
-                      <th>Country</th>
-                      <th>Date &amp; Time</th>
-                      <th>Amount</th>
-                  </tr>
-              </thead>
-              <tbody>
-                  <tr>
-                      <td>United States</td>
-                      <td>April 21, 2021</td>
-                      <td><strong>$2,300</strong></td>
-                  </tr>
-                  <tr>
-                      <td>Canada</td>
-                      <td>May 31, 2021</td>
-                      <td><strong>$300</strong></td>
-                  </tr>
-                  <tr>
-                      <td>United Kingdom</td>
-                      <td>June 3, 2021</td>
-                      <td><strong>$2,500</strong></td>
-                  </tr>
-                  <tr>
-                      <td>Australia</td>
-                      <td>June 23, 2021</td>
-                      <td><strong>$3,543</strong></td>
-                  </tr>
-                  <tr>
-                      <td>Germany</td>
-                      <td>July 6, 2021</td>
-                      <td><strong>$99</strong></td>
-                  </tr>
-                  <tr>
-                      <td>France</td>
-                      <td>August 23, 2021</td>
-                      <td><strong>$2,540</strong></td>
-                  </tr>
-              </tbody>
-          </table>
-          <h3>Best practices for setting up your prototype</h3>
-          <p><strong>Low fidelity or high fidelity?</strong> Fidelity refers to how close a prototype will be to
-              the real deal. If you’re simply preparing a quick visual aid for a presentation, a low-fidelity
-              prototype — like a wireframe with placeholder images and some basic text — would be more than
-              enough. But if you’re going for more intricate usability testing, a high-fidelity prototype — with
-              on-brand colors, fonts and imagery — could help get more pointed results.</p>
-          <p><strong>Consider your user</strong>. To create an intuitive user flow, try to think as your user
-              would when interacting with your product. While you can fine-tune this during beta testing,
-              considering your user’s needs and habits early on will save you time by setting you on the right
-              path.</p>
-          <p><strong>Start from the inside out</strong>. A nice way to both organize your tasks and create more
-              user-friendly prototypes is by building your prototypes ‘inside out’. Start by focusing on what will
-              be important to your user, like a Buy now button or an image gallery, and list each element by order
-              of priority. This way, you’ll be able to create a prototype that puts your users’ needs at the heart
-              of your design.</p>
-          <p>And there you have it! Everything you need to design and share prototypes — right in Flowbite Figma.
-          </p>
-          <section class="not-format">
-              <div class="flex justify-between items-center mb-6">
-                  <h2 class="text-lg lg:text-2xl font-bold text-gray-900 dark:text-white">Discussion (20)</h2>
-              </div>
-              <form class="mb-6">
-                  <div class="py-2 px-4 mb-4 bg-white rounded-lg rounded-t-lg border border-gray-200 dark:bg-gray-800 dark:border-gray-700">
-                      <label for="comment" class="sr-only">Your comment</label>
-                      <textarea id="comment" rows="6"
-                          class="px-0 w-full text-sm text-gray-900 border-0 focus:ring-0 dark:text-white dark:placeholder-gray-400 dark:bg-gray-800"
-                          placeholder="Write a comment..." required></textarea>
-                  </div>
-                  <button type="submit"
-                      class="inline-flex items-center py-2.5 px-4 text-xs font-medium text-center text-white bg-primary-700 rounded-lg focus:ring-4 focus:ring-primary-200 dark:focus:ring-primary-900 hover:bg-primary-800">
-                      Post comment
-                  </button>
-              </form>
-              <article class="p-6 mb-6 text-base bg-white rounded-lg dark:bg-gray-900">
-                  <footer class="flex justify-between items-center mb-2">
-                      <div class="flex items-center">
-                          <p class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white"><img
-                                  class="mr-2 w-6 h-6 rounded-full"
-                                  src="https://flowbite.com/docs/images/people/profile-picture-2.jpg"
-                                  alt="Michael Gough">Michael Gough</p>
-                          <p class="text-sm text-gray-600 dark:text-gray-400"><time pubdate datetime="2022-02-08"
-                                  title="February 8th, 2022">Feb. 8, 2022</time></p>
-                      </div>
-                      <button id="dropdownComment1Button" data-dropdown-toggle="dropdownComment1"
-                          class="inline-flex items-center p-2 text-sm font-medium text-center text-gray-400 bg-white rounded-lg hover:bg-gray-100 focus:ring-4 focus:outline-none focus:ring-gray-50 dark:bg-gray-900 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
-                          type="button">
-                          <svg class="w-5 h-5" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20"
-                              xmlns="http://www.w3.org/2000/svg">
-                              <path
-                                  d="M6 10a2 2 0 11-4 0 2 2 0 014 0zM12 10a2 2 0 11-4 0 2 2 0 014 0zM16 12a2 2 0 100-4 2 2 0 000 4z">
-                              </path>
-                          </svg>
-                          <span class="sr-only">Comment settings</span>
-                      </button>
-                      <!-- Dropdown menu -->
-                      <div id="dropdownComment1"
-                          class="hidden z-10 w-36 bg-white rounded divide-y divide-gray-100 shadow dark:bg-gray-700 dark:divide-gray-600">
-                          <ul class="py-1 text-sm text-gray-700 dark:text-gray-200"
-                              aria-labelledby="dropdownMenuIconHorizontalButton">
-                              <li>
-                                  <a href="#"
-                                      class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Edit</a>
-                              </li>
-                              <li>
-                                  <a href="#"
-                                      class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Remove</a>
-                              </li>
-                              <li>
-                                  <a href="#"
-                                      class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Report</a>
-                              </li>
-                          </ul>
-                      </div>
-                  </footer>
-                  <p>Very straight-to-point article. Really worth time reading. Thank you! But tools are just the
-                      instruments for the UX designers. The knowledge of the design tools are as important as the
-                      creation of the design strategy.</p>
-                  <div class="flex items-center mt-4 space-x-4">
-                      <button type="button"
-                          class="flex items-center text-sm text-gray-500 hover:underline dark:text-gray-400">
-                          <svg aria-hidden="true" class="mr-1 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"></path></svg>
-                          Reply
-                      </button>
-                  </div>
-              </article>
-              <article class="p-6 mb-6 ml-6 lg:ml-12 text-base bg-white rounded-lg dark:bg-gray-900">
-                  <footer class="flex justify-between items-center mb-2">
-                      <div class="flex items-center">
-                          <p class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white"><img
-                                  class="mr-2 w-6 h-6 rounded-full"
-                                  src="https://flowbite.com/docs/images/people/profile-picture-5.jpg"
-                                  alt="Jese Leos">Jese Leos</p>
-                          <p class="text-sm text-gray-600 dark:text-gray-400"><time pubdate datetime="2022-02-12"
-                                  title="February 12th, 2022">Feb. 12, 2022</time></p>
-                      </div>
-                      <button id="dropdownComment2Button" data-dropdown-toggle="dropdownComment2"
-                          class="inline-flex items-center p-2 text-sm font-medium text-center text-gray-400 bg-white rounded-lg hover:bg-gray-100 focus:ring-4 focus:outline-none focus:ring-gray-50 dark:bg-gray-900 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
-                          type="button">
-                          <svg class="w-5 h-5" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20"
-                              xmlns="http://www.w3.org/2000/svg">
-                              <path
-                                  d="M6 10a2 2 0 11-4 0 2 2 0 014 0zM12 10a2 2 0 11-4 0 2 2 0 014 0zM16 12a2 2 0 100-4 2 2 0 000 4z">
-                              </path>
-                          </svg>
-                          <span class="sr-only">Comment settings</span>
-                      </button>
-                      <!-- Dropdown menu -->
-                      <div id="dropdownComment2"
-                          class="hidden z-10 w-36 bg-white rounded divide-y divide-gray-100 shadow dark:bg-gray-700 dark:divide-gray-600">
-                          <ul class="py-1 text-sm text-gray-700 dark:text-gray-200"
-                              aria-labelledby="dropdownMenuIconHorizontalButton">
-                              <li>
-                                  <a href="#"
-                                      class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Edit</a>
-                              </li>
-                              <li>
-                                  <a href="#"
-                                      class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Remove</a>
-                              </li>
-                              <li>
-                                  <a href="#"
-                                      class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Report</a>
-                              </li>
-                          </ul>
-                      </div>
-                  </footer>
-                  <p>Much appreciated! Glad you liked it ☺️</p>
-                  <div class="flex items-center mt-4 space-x-4">
-                      <button type="button"
-                          class="flex items-center text-sm text-gray-500 hover:underline dark:text-gray-400">
-                          <svg aria-hidden="true" class="mr-1 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"></path></svg>
-                          Reply
-                      </button>
-                  </div>
-              </article>
-              <article class="p-6 mb-6 text-base bg-white border-t border-gray-200 dark:border-gray-700 dark:bg-gray-900">
-                  <footer class="flex justify-between items-center mb-2">
-                      <div class="flex items-center">
-                          <p class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white"><img
-                                  class="mr-2 w-6 h-6 rounded-full"
-                                  src="https://flowbite.com/docs/images/people/profile-picture-3.jpg"
-                                  alt="Bonnie Green">Bonnie Green</p>
-                          <p class="text-sm text-gray-600 dark:text-gray-400"><time pubdate datetime="2022-03-12"
-                                  title="March 12th, 2022">Mar. 12, 2022</time></p>
-                      </div>
-                      <button id="dropdownComment3Button" data-dropdown-toggle="dropdownComment3"
-                          class="inline-flex items-center p-2 text-sm font-medium text-center text-gray-400 bg-white rounded-lg hover:bg-gray-100 focus:ring-4 focus:outline-none focus:ring-gray-50 dark:bg-gray-900 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
-                          type="button">
-                          <svg class="w-5 h-5" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20"
-                              xmlns="http://www.w3.org/2000/svg">
-                              <path
-                                  d="M6 10a2 2 0 11-4 0 2 2 0 014 0zM12 10a2 2 0 11-4 0 2 2 0 014 0zM16 12a2 2 0 100-4 2 2 0 000 4z">
-                              </path>
-                          </svg>
-                          <span class="sr-only">Comment settings</span>
-                      </button>
-                      <!-- Dropdown menu -->
-                      <div id="dropdownComment3"
-                          class="hidden z-10 w-36 bg-white rounded divide-y divide-gray-100 shadow dark:bg-gray-700 dark:divide-gray-600">
-                          <ul class="py-1 text-sm text-gray-700 dark:text-gray-200"
-                              aria-labelledby="dropdownMenuIconHorizontalButton">
-                              <li>
-                                  <a href="#"
-                                      class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Edit</a>
-                              </li>
-                              <li>
-                                  <a href="#"
-                                      class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Remove</a>
-                              </li>
-                              <li>
-                                  <a href="#"
-                                      class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Report</a>
-                              </li>
-                          </ul>
-                      </div>
-                  </footer>
-                  <p>The article covers the essentials, challenges, myths and stages the UX designer should consider while creating the design strategy.</p>
-                  <div class="flex items-center mt-4 space-x-4">
-                      <button type="button"
-                          class="flex items-center text-sm text-gray-500 hover:underline dark:text-gray-400">
-                          <svg aria-hidden="true" class="mr-1 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"></path></svg>
-                          Reply
-                      </button>
-                  </div>
-                  <footer class="flex justify-between items-center mb-2">
-                      <div class="flex items-center">
-                          <p class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white"><img
-                                  class="mr-2 w-6 h-6 rounded-full"
-                                  src="https://flowbite.com/docs/images/people/profile-picture-4.jpg"
-                                  alt="Helene Engels">Helene Engels</p>
-                          <p class="text-sm text-gray-600 dark:text-gray-400"><time pubdate datetime="2022-06-23"
-                                  title="June 23rd, 2022">Jun. 23, 2022</time></p>
-                      </div>
-                      <button id="dropdownComment4Button" data-dropdown-toggle="dropdownComment4"
-                          class="inline-flex items-center p-2 text-sm font-medium text-center text-gray-400 bg-white rounded-lg hover:bg-gray-100 focus:ring-4 focus:outline-none focus:ring-gray-50 dark:bg-gray-900 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
-                          type="button">
-                          <svg class="w-5 h-5" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20"
-                              xmlns="http://www.w3.org/2000/svg">
-                              <path
-                                  d="M6 10a2 2 0 11-4 0 2 2 0 014 0zM12 10a2 2 0 11-4 0 2 2 0 014 0zM16 12a2 2 0 100-4 2 2 0 000 4z">
-                              </path>
-                          </svg>
-                      </button>
-                      <!-- Dropdown menu -->
-                      <div id="dropdownComment4"
-                          class="hidden z-10 w-36 bg-white rounded divide-y divide-gray-100 shadow dark:bg-gray-700 dark:divide-gray-600">
-                          <ul class="py-1 text-sm text-gray-700 dark:text-gray-200"
-                              aria-labelledby="dropdownMenuIconHorizontalButton">
-                              <li>
-                                  <a href="#"
-                                      class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Edit</a>
-                              </li>
-                              <li>
-                                  <a href="#"
-                                      class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Remove</a>
-                              </li>
-                              <li>
-                                  <a href="#"
-                                      class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Report</a>
-                              </li>
-                          </ul>
-                      </div>
-                  </footer>
-                  <p>Thanks for sharing this. I do came from the Backend development and explored some of the tools to design my Side Projects.</p>
-                  <div class="flex items-center mt-4 space-x-4">
-                      <button type="button"
-                          class="flex items-center text-sm text-gray-500 hover:underline dark:text-gray-400">
-                          <svg aria-hidden="true" class="mr-1 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"></path></svg>
-                          Reply
-                      </button>
-                  </div>
-              </article>
-          </section>
+        <div name='p1'>
+            <h1 class="mb-2 text-2xl font-extrabold leading-tight text-gray-900 lg:mb-3 lg:text-2xl dark:text-white">2023 - Reflectively, how do you feel about this response now? What has changed, what hasn’t?
+            </h1>
+            <div class="pb-1"></div>
+             <p class="mb-1 text-sm font-extrabold leading-tight text-gray-700 lg:mb-3 lg:text-sm dark:text-white">( in terms of how you view self-care as it pertains to your own wellness and generally in society?)</p>
+             <div class="pb-3"></div>
+            <p>
+            The tools I described here I still use. Journaling, morning routines, cultural music, art, making time for hygiene and personal care needs are all part of things I'll do to show myself care and love. As someone living with depression, anxiety and PTSD I've been learning about my mental health as part of my life's journey. My mental health needs have changed and as such, the way I learn about my evolving needs shifts and how to meet these needs and care for these needs has also shifted. In western countries, we always have to ask ourselves how we've internalized capitalism in our own lives. The way we conceptualize care in western countries has roots in institutionalization and professionalization, so yes, our concepts of care are commercialized. Even if we live in a western country, I believe the call to self love and self-care is a call to your Spirit, your Soul, your Intelligence, your Creativity, your Vitality, your Peace. If we become aware of the call and follow it with a heart of sincerity, then we're taken on a journey. Self love and self care has become about knowing who I am and accepting myself.
+            </p>
+            <div class="pb-8"></div> 
+            <p>My relationship with self-love and self-care evolves and isn't static. Using an industrial lens, in my opinion, aims to make self love and self-care static and fixed. As I evolve, my relations with care and love evolves. As I listen to the call, I open myself to learning how to love and how to care, this is dynamic, and life is leading and teaching me. Self- reflexivity and discernment are technologies I use to gauge when liberatory practices are being extorted. In reflection, I am talking to myself. I'm always in a relationship with myself. The tools I described above are some ways I was reconnecting with myself.</p>
+            <div class="pb-8"></div> 
+            <p>At the time, I was still bumping along, trying new methods to find some sense of inner and outer harmony. I was still unlearning and shedding, making new choices and learning about my responses and resolve. At 23 years old, I had committed to learning how to care for myself and I put myself on different modalities to explore how I responded. I changed the way I ate for my mental health and I wanted to make more caring choices for myself. These were some of my initial desires that led me to self-care and self-love.</p>
+        </div>
+
+        
+       
       </article>
   </div>
 </main>
@@ -441,14 +120,6 @@ URL: https://flowbite.com/docs/components/typography/
   </div>
 </aside>
 
-<section class="bg-white dark:bg-gray-900">
-  <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
-      <div class="mx-auto max-w-screen-md sm:text-center">
-          <h2 class="mb-4 text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl dark:text-white">Sign up for our newsletter</h2>
-          <p class="mx-auto mb-8 max-w-2xl font-light text-gray-500 md:mb-12 sm:text-xl dark:text-gray-400">Stay up to date with the roadmap progress, announcements and exclusive discounts feel free to sign up with your email.</p>
-      </div>
-  </div>
-</section>
 
 
 
