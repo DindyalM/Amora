@@ -13,7 +13,8 @@ URL: https://flowbite.com/docs/components/typography/
           <header class="mb-4 lg:mb-6 not-format">
               <address class="flex items-center mb-6 not-italic">
                   <div class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white">
-                      <img class="mr-4 w-16 h-16 rounded-full" src="shorturl.at/hnFSZ" alt="Jese Leos">
+                      <img class="mr-4 w-16 h-16 rounded-full" src="
+                     joan_drwsworld.jpg" alt="Jese Leos">
                       <div>
                           <a href="#" rel="author" class="text-xl font-bold text-gray-900 dark:text-white">Joan Laxmie Rupram</a>
                           <p class="text-base font-light text-gray-500 dark:text-gray-400">Graphic Designer, educator & CEO Flowbite</p>
@@ -21,19 +22,19 @@ URL: https://flowbite.com/docs/components/typography/
                       </div>
                   </div>
               </address>
-              <h1 class="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">Best practices for successful prototypes</h1>
+              <h1 class="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">Joans Bio</h1>
           </header>
-          <p class="lead">Flowbite is an open-source library of UI components built with the utility-first
-              classes from Tailwind CSS. It also includes interactive elements such as dropdowns, modals,
-              datepickers.</p>
-          <p>Before going digital, you might benefit from scribbling down some ideas in a sketchbook. This way,
-              you can think things through before committing to an actual design project.</p>
-          <p>But then I found a <a href="https://flowbite.com">component library based on Tailwind CSS called
-                  Flowbite</a>. It comes with the most commonly used UI components, such as buttons, navigation
-              bars, cards, form elements, and more which are conveniently built with the utility classes from
-              Tailwind CSS.</p>
-
-          <h2>Getting started with Flowbite</h2>
+          <div name="Joan intro">
+            <p class="lead">Joan Laxmie Rupram is a 5th generation “post” Indian Indentured Caribbean descendent of Guyana and Shakta Devi lineage holder. Joan occupies indigenous territory of the Mississaugas of the Credit, the Anishnabeg, the Haudenosaunee, the Chippewa, the Wendat Peoples and the Senecas on Treaty 13 known today as Toronto.</p>
+            <div class="pb-8"></div>
+            <p>Their work interrogates the intersections of the personal is political and spiritual where Joan's praxis endeavors to enliven the Indigenous genesis of our Black/Brown Ancestral DNA.</p>
+            <div class="pb-8"></div>
+            <p>Joan is Co-founder of Fresh Water Society; an Indigenous Spirit-Led collective for Diasporic Peoples of the Divine Feminine. Fresh Waters The Podcast is a ceremonial production by Fresh Water Society weaving stories for collective healing, liberation and our conscious connected community.</p>
+            <div class="pb-8"></div>
+            <p>Joan runs their family business, JN Organichouse and their consulting practice coaching and mentoring emergent leaders. You can find their short stories in Protest Through Poetry Anthology at Protestthroughpoetry.com & Blooming Through Adversity: A Collection of Short Stories on Amazon.</p>
+            <div class="pb-8"></div>
+        </div>
+          <h1 class="mb-2 text-1xl font-extrabold leading-tight text-gray-900 lg:mb-3 lg:text-2xl dark:text-white">2015 -  How do you express self-love/care in the face of racism/anti-Blackness/anti-Indigeneity?</h1>
           <p>First of all you need to understand how Flowbite works. This library is not another framework.
               Rather, it is a set of components based on Tailwind CSS that you can just copy-paste from the
               documentation.</p>
