@@ -8,11 +8,13 @@ declare namespace App {
   // interface Platform {}
   interface Platform {
     env: {
-      //COUNTER: DurableObjectNamespace;
+      COUNTER: DurableObjectNamespace;
     };
     context: {
       waitUntil(promise: Promise<any>): void;
     };
     caches: CacheStorage & { default: Cache };
   }
+
+ 
 }

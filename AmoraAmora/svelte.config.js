@@ -8,9 +8,8 @@ const config = {
   preprocess: vitePreprocess(),
 
   kit: {
-    adapter: adapter(),
+    adapter: cloudfare(),
   },
-  preprocess: vitePreprocess(),
 };
 
 export default config;
